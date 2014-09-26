@@ -23,3 +23,8 @@ Material for a class on mathematical statistics and data analysis
 * [23 - Analysis of Variance    ](https://dl.dropboxusercontent.com/u/48599099/Stat135/stat135-class-notes/scans/AnalysisOfVariance.pdf)
 * [24 - Review Sessions (I & II)        ](https://dl.dropboxusercontent.com/u/48599099/Stat135/stat135-class-notes/scans/ReviewSessionsIandII.pdf)
 * [25 - Regression in the Correlation Sphere    ](https://dl.dropboxusercontent.com/u/48599099/Stat135/stat135-class-notes/scans/RegressionOnOrthonormalData.pdf)
+
+Review of some concepts in linear algebra that are useful in statistics (and game theory)
+
+* [Review material I](https://bspace.berkeley.edu/access/content/group/5f5849a5-ad66-4c34-9c19-f58fe0e21193/Notes/Review%20in%20Linear%20Algebra/Lin_Alg_Review_I.pdf)
+* [Review material II](https://bspace.berkeley.edu/access/content/group/5f5849a5-ad66-4c34-9c19-f58fe0e21193/Notes/Review%20in%20Linear%20Algebra/4098_001.pdf)
