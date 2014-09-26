@@ -1,5 +1,5 @@
-stat135-lecture-notes
-=====================
+Lecture Notes (Stat 135)
+========================
 
 Material for a class on mathematical statistics and data analysis
 
